@@ -16,7 +16,8 @@ public class inicio {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int b=0, a=0;
+        int b;
+        int a;
         int c = b + a;
         System.out.println ("valor");
         
