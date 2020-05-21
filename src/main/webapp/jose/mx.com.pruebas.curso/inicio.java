@@ -16,11 +16,16 @@ public class inicio {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int b;
-        int a;
+        int b = 0;
+        int a = 0;
         int c = b + a;
-        System.out.println ("valor");
         
+        
+        if (a==1)
+        {
+            
+            System.out.println ("valor");
+        }
     }
     
 }
