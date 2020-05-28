@@ -20,11 +20,11 @@ public class inicio {
         int a = 0;
         int c = b + a;
         
-        
         if (a==1)
         {
-            
-            System.out.println ("valor");
+            System.out.println ("valor" + c);
+            System.out.println ("valor" + b);
+            System.out.println ("valor" + a);
         }
     }
     
